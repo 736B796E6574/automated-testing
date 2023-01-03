@@ -11,3 +11,4 @@ _RegisterApplication(), FAILED TO establish the default connection to the Window
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/k6/86w4dn616t5130zyjvfy5tqh0000gn/T/rust_mozprofile3VCG3I/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:58914/devtools/browser/89b29bbf-7afa-4b60-bd66-66a94987d2cb
 _RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1672773392546	Marionette	INFO	Stopped listening on port 58917
